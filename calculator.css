@@ -1,0 +1,14 @@
+body {
+    background-image: url("gradient.jpg");
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    padding: 200px 200px 200px 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size:x-large;
+    color: rgb(12, 33, 76);
+}
